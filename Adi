@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Israel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f1f1f1;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0033A0; /* blue (Israel's color) */
+            color: white;
+            padding: 20px;
+            font-size: 2em;
+        }
+        img {
+            width: 200px;
+            height: auto;
+            cursor: pointer;
+        }
+        .main-content {
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .button-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0033A0;
+            color: white;
+            text-decoration: none;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .button-link:hover {
+            background-color: #0051B8;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    Support Israel
+</header>
+
+<div class="main-content">
+    <p>Welcome to the Support Israel website. We stand strong for Israel. Click the logo to learn more.</p>
+
+    <!-- Insert the logo image here -->
+    <a href="https://bit.ly/414WjPK" target="_blank">
+        <img src="https://imgur.com/ws8Oq1K" alt="Support Israel Logo">
+    </a>
+
+    <p>If you want to learn more, please visit <a href="https://bit.ly/414WjPK" target="_blank">Stand With Us</a></p>
+
+    <!-- Add more content if needed -->
+</div>
+
+</body>
+</html>
